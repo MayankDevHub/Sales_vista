@@ -181,7 +181,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
+**Mayank Kumar**
 - GitHub: [MayankDevHub](https://github.com/MayankDevHub)
 
 - LinkedIn: https://www.linkedin.com/in/mayank-kumar-3a69932a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
